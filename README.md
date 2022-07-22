@@ -1,3 +1,3 @@
 # Counter App
 
-![application](public\images\counter-app.jpg)
+<img alt="application screenshot" src="public/images/counter-app.jpg" height="300" align="center">
